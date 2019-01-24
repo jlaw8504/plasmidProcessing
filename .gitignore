@@ -1,0 +1,19 @@
+# Image Files
+*.stk
+*.nd2
+*.tif
+*.png
+
+# MAT data files
+*.mat
+
+# Mac DS_store file
+.DS_store
+# Thumbs.db files
+Thumbs.db
+
+# Misc Stuff that keeps popping up
+*.zip
+
+# My convience functions
+prep.m
